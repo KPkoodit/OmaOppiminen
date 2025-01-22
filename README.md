@@ -11,7 +11,7 @@ Kurssilla keskityin pääasiassa backendin kehittämiseen. Kurssin jo loputtua r
 Projektiin jäi vielä parannettavia asioita. TypeScriptin automaattista tyypitystä on  hyödynetty projektissa reilusti, joten tyyppejä on näkyvissä koodissa rajoitetusti. Koodin ymmärrettävyyden helpottamiseksi tyypitkin voisivat olla useammin näkyvillä. Lisäksi käyttäjän autentikointi oli erittäin yksinkertainen ja kaipaisi jatkokehitystä, jos sitä haluaisi käyttää harjoitussovelluksen ulkopuolella.
 
 ## Kolikkosieppari:
-Tässä projektissa opin käyttämään Pythonin pelikirjastoa ja luomaan yksinkertaista peligrafiikkaa. Lisäksi opin itsenäisen työskentelyn aikataulutusta ja projektin hallintaa, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin aikatauluni mukaan valmiiksi erinomaisin tuloksin.
+Tässä projektissa opin käyttämään Pythonin pelikirjastoa ja luomaan yksinkertaista peligrafiikkaa. Lisäksi opin itsenäisen työskentelyn aikataulutusta ja projektin hallintaa, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin valmiiksi aikatauluni mukaan erinomaisin tuloksin.
 
 ## Budjettisovellus:
 Tämä Java-projekti sisältää koodin lisäksi teknisen dokumentaation ja käyttöohjeen. Projektin ansiosta sain arvokasta kokemusta kattavan dokumentaation laatimisesta. Tämän lisäksi tutustuin scrum-viitekehyksen mukaiseen ketterään ohjelmistokehitykseen. Kurssi kesti koko kevätlukukauden ja viikot jaettiin sprintteihin, joissa suoritettiin ennalta sovitut työtehtävät.
