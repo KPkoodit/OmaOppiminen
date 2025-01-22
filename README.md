@@ -8,7 +8,7 @@ Projektissa opin luomaan integraatioita ohjelman eri osien välillä, sillä sov
   
 Kurssilla keskityin pääasiassa backendin kehittämiseen. Kurssin jo loputtua refaktoroin lisäksi frontendin, ja muutokset ovat nähtävillä GitHubin historiassa.
   
-Projektiin jäi vielä parannettavia asioita.  TypeScriptin automaattista tyypitystä on  hyödynetty projektissa reilusti, joten tyyppejä on näkyvissä koodissa rajoitetusti. Koodin ymmärrettävyyden helpottamiseksi tyypitkin voisivat olla useammin näkyvillä. Lisäksi käyttäjän autentikointi oli erittäin yksinkertainen ja kaipaisi jatkokehitystä, jos sitä haluaisi käyttää harjoitussovelluksen ulkopuolella.
+Projektiin jäi vielä parannettavia asioita. TypeScriptin automaattista tyypitystä on  hyödynetty projektissa reilusti, joten tyyppejä on näkyvissä koodissa rajoitetusti. Koodin ymmärrettävyyden helpottamiseksi tyypitkin voisivat olla useammin näkyvillä. Lisäksi käyttäjän autentikointi oli erittäin yksinkertainen ja kaipaisi jatkokehitystä, jos sitä haluaisi käyttää harjoitussovelluksen ulkopuolella.
 
 ## Kolikkosieppari:
 Tässä projektissa opin käyttämään Pythonin pelikirjastoa ja luomaan yksinkertaista peligrafiikkaa. Lisäksi opin itsenäisen työskentelyn aikataulutusta ja projektin hallintaa, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin aikatauluni mukaan valmiiksi erinomaisin tuloksin.
