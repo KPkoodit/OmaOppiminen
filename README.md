@@ -14,11 +14,11 @@ Projektiin jäi vielä parannettavia asioita. TypeScriptin automaattista tyypity
 Tässä projektissa opin käyttämään Pythonin pelikirjastoa ja luomaan yksinkertaista peligrafiikkaa. Lisäksi opin itsenäisen työskentelyn aikataulutusta ja projektin hallintaa, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin valmiiksi aikatauluni mukaan erinomaisin tuloksin.
 
 ## Budjettisovellus:
-Tämä Java-projekti sisältää koodin lisäksi teknisen dokumentaation ja käyttöohjeen. Vastuualueitani projektin koodaus-osiossa olivat osa backendin funktioista sekä frontendin refaktorointi ja modernisointi SceneBuilderin avulla.
+Vastuualueitani tämän Java-projektin koodaus-osiossa olivat osa backendin toiminnallisuuksista sekä frontendin refaktorointi ja modernisointi SceneBuilderin avulla. Projekti sisältää koodin lisäksi teknisen dokumentaation ja käyttöohjeen, joiden ansiosta sain arvokasta kokemusta kattavan dokumentaation laatimisesta. 
 
-Projektin ansiosta sain arvokasta kokemusta kattavan dokumentaation laatimisesta. Tämän lisäksi tutustuin scrum-viitekehyksen mukaiseen ketterään ohjelmistokehitykseen. Kurssi kesti koko kevätlukukauden ja viikot jaettiin sprintteihin, joissa suoritettiin ennalta sovitut työtehtävät.
+Projektin aikana tutustuin scrum-viitekehyksen mukaiseen ketterään ohjelmistokehitykseen. Kurssi kesti koko kevätlukukauden ja viikot jaettiin sprintteihin, joissa suoritettiin ennalta sovitut työtehtävät.
   
-Opin projektin aikana konkreettisesti suunnittelun merkityksen, sillä sovelluksen frontend refaktoroitiin kokonaan työskentelyn edetessä. Kattavammalla suunnittelulla olisi voinut mahdollisesti vähentää päällekkäistä työtä ja näin säästää reilusti työaikaa.
+Opin projektin aikana konkreettisesti suunnittelun merkityksen, sillä sovelluksen frontend refaktoroitiin kokonaan työskentelyn edetessä. Kattavammalla suunnittelulla olisi voinut mahdollisesti vähentää päällekkäistä työtä ja näin säästää sekä voimia muihin tehtäviin että työaikaa.
 
 ## Suunnittelumallit:
 Näiden tehtävien avulla opin teoreettisia tapoja kirjoittaa tehokasta ja toimivaa koodia. Kuten kurssin luennolla todettiin: "Miksi keksiä pyörää uudestaan, kun olemassa on jo toimivat ja tehokkaat periaatteet koodin suunnitteluun." Pääsin syventämään Java-osaamistani tutustumalla näihin menetelmiin.
