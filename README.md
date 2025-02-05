@@ -1,4 +1,5 @@
-# Mitä projektit ovat opettaneet minulle?
+# Mitä olen oppinut projekteista?
+Suurin osa projekteista (Budjettisovellus, Koiratarha2 ja Koneoppiminen) on tehty ryhmätyönä kurssilla, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani. Yleensä tästä on seurannut koodin siistiytyminen ja rakenteen parantuminen uusien ominaisuuksien kehittämisen sijaan. Huomasin samalla, että pidän jo olemassa olevan koodin muokkaamisesta parempaan muotoon.
 
 ## Koneoppimistehtävät: 
 Opin käyttämään Python-kirjastoja datan käsittelyyn ja visualisoimiseen. Näitä kirjastoja ovat esimerkiksi Pandas, NumPy, Seaborn, Matplotlib.pyplot, Scikit-learn ja NLTK. Lisäksi pääsin käyttämään Google Colabia ryhmäkoodaamisessa. Etäkoodasimme yhdessä puheluyhteyden välityksellä ja vuorottelimme kirjoittajan roolissa. Kun yksi kirjoitti niin toiset kommentoivat tai etsivät ratkaisuja pulmiin. Opin myös käyttämään JupyterLabia lokaalisti omassa kehitysympäristössäni.
