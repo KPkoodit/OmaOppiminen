@@ -24,19 +24,19 @@ Olen vienyt projektin Azureen, mikä antoi kokemusta **Azuren peruskäytöstä**
 Kurssilla keskityin pääasiassa backendin kehittämiseen. Kurssin jo loputtua refaktoroin lisäksi frontendin, ja muutokset ovat nähtävillä GitHubin historiassa.
 
 ## Kolikkosieppari:
-Tässä projektissa opin käyttämään Pythonin pelikirjastoa ja luomaan yksinkertaista peligrafiikkaa. Lisäksi opin itsenäisen työskentelyn aikataulutusta ja projektin hallintaa, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin valmiiksi aikatauluni mukaan erinomaisin tuloksin.
+Tässä projektissa opin käyttämään Pythonin pelikirjastoa **pygamea** ja luomaan yksinkertaista peligrafiikkaa sen avulla. Opin myös **itsenäisen työskentelyn aikataulutusta** ja **projektin hallintaa**, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin valmiiksi aikatauluni mukaan erinomaisin tuloksin.
 
 ## Budjettisovellus:
-Vastuualueitani tämän Java-projektin koodaus-osiossa olivat osa backendin toiminnallisuuksista sekä frontendin refaktorointi ja modernisointi SceneBuilderin avulla. Projekti sisältää koodin lisäksi teknisen dokumentaation ja käyttöohjeen, joiden ansiosta sain arvokasta kokemusta kattavan dokumentaation laatimisesta. 
+Vastuualueitani tämän **Java-projektin** koodaus-osiossa olivat osa backendin toiminnallisuuksista sekä frontendin refaktorointi ja modernisointi **SceneBuilderin avulla**. Projektin suunnittelussa käytettiin **mvc-arkkitehtuuria**, joka jakaa ohjelmakoodin kolmeen osaan (model, view ja controller) sen toiminnallisuuden perusteella. Koodin kokoamiseen ja riippuvuuksien hallintaan käytettiin rakennusautomaatiotyökalu **Mavenia**. Projekti sisältää koodin lisäksi **teknisen dokumentaation** ja **käyttöohjeen**, joiden ansiosta sain arvokasta kokemusta kattavan dokumentaation laatimisesta. 
 
-Projektin aikana tutustuin scrum-viitekehyksen mukaiseen ketterään ohjelmistokehitykseen. Kurssi kesti koko kevätlukukauden ja viikot jaettiin sprintteihin, joissa suoritettiin ennalta sovitut työtehtävät.
+Projektin aikana tutustuin **scrum**-viitekehyksen mukaiseen ketterään ohjelmistokehitykseen. Kurssi kesti koko kevätlukukauden ja viikot jaettiin sprintteihin, joissa suoritettiin ennalta sovitut työtehtävät. Ketterä ohjelmistokehitys kasvoi osaksi työskentelytapaani ja olen saanut vahvistusta sille myös myöhemmissä ryhmätyöprojekteissa.
   
-Opin projektin aikana konkreettisesti suunnittelun merkityksen, sillä sovelluksen frontend refaktoroitiin kokonaan työskentelyn edetessä. Kattavammalla suunnittelulla olisi voinut mahdollisesti vähentää päällekkäistä työtä ja näin säästää sekä voimia muihin tehtäviin että työaikaa.
+Opin konkreettisesti **suunnittelun merkityksen**, sillä sovelluksen frontend refaktoroitiin kokonaan työskentelyn edetessä. Kattavammalla suunnittelulla olisi voinut mahdollisesti vähentää päällekkäistä työtä ja näin säästää sekä voimia että aikaa. Motivaationi työskentelyn suunnitteluun nousikin tämän kokemuksen jälkeen selvästi.
 
 ## Suunnittelumallit:
-Näiden tehtävien avulla opin teoreettisia tapoja kirjoittaa tehokasta ja toimivaa koodia. Kuten kurssin luennolla todettiin: "Miksi keksiä pyörää uudestaan, kun olemassa on jo toimivat ja tehokkaat periaatteet koodin suunnitteluun." Pääsin syventämään Java-osaamistani tutustumalla näihin menetelmiin.
+Repositoryn tehtävien avulla opin teoreettisia tapoja kirjoittaa **tehokasta ja toimivaa koodia**. Kuten kurssin luennolla todettiin: "Miksi keksiä pyörää uudestaan, kun olemassa on jo toimivat ja tehokkaat periaatteet koodin suunnitteluun." Pääsin syventämään Java-osaamistani tutustumalla näihin menetelmiin. Haluaisin vahvistaa suunnittelun osaamistani vielä lisää.
 
 ## Yleistä:
-Olen huomannut että frameworkien ja kirjastojen tuntemus on osoittautunut tärkeäksi, sillä ne tehostavat ja automatisoivat työskentelyä. Niiden käyttö vaatii kuitenkin usein enemmän perehtymistä dokumentaatioon tai tutoriaaleihin kuin ohjelmointikielten käyttö. Kielten opiskelussa toiminut luovuus ja arvailu ei frameworkien kanssa enää toiminutkaan yhtä hyvin. Tämän takia olen nykyään tottunut käyttämään dokumentaatioita ja tutoriaaleja osana työskentelyäni.
+Olen huomannut että frameworkien ja kirjastojen tuntemus on tärkeää, sillä ne tehostavat ja automatisoivat työskentelyä. Niiden käyttö vaatii kuitenkin usein enemmän perehtymistä dokumentaatioon tai tutoriaaleihin kuin ohjelmointikielten käyttö. Kielten opiskelussa toiminut luovuus ja arvailu ei frameworkien kanssa enää toiminutkaan yhtä hyvin. Tämän takia olen nykyään tottunut käyttämään dokumentaatioita ja tutoriaaleja osana työskentelyäni.
   
 Esimerkiksi Vite ja Maven ovat työkaluja, jotka eivät toimi oikein, jos tiedostorakenne ei vastaa työkalun odottamaa rakennetta. Budjettisovellusprojektissa korjasin tiedostorakenteen, minkä ansiosta Maven toimii siinä nyt ongelmitta. Nämä muutokset ovat nähtävillä GitHubin historiassa.
