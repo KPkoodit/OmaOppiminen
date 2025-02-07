@@ -34,7 +34,7 @@ Projektin aikana tutustuin **scrum**-viitekehyksen mukaiseen ketterään ohjelmi
 Opin konkreettisesti **suunnittelun merkityksen**, sillä sovelluksen frontend refaktoroitiin kokonaan työskentelyn edetessä. Kattavammalla suunnittelulla olisi voinut mahdollisesti vähentää päällekkäistä työtä ja näin säästää sekä voimia että aikaa. Motivaationi työskentelyn suunnitteluun nousikin tämän kokemuksen jälkeen selvästi.
 
 ## Suunnittelumallit:
-Repositoryn tehtävien avulla opin teoreettisia tapoja kirjoittaa **tehokasta ja toimivaa koodia**. Kuten kurssin luennolla todettiin: "Miksi keksiä pyörää uudestaan, kun olemassa on jo toimivat ja tehokkaat periaatteet koodin suunnitteluun." Pääsin syventämään Java-osaamistani tutustumalla näihin menetelmiin. Haluaisin vahvistaa suunnittelun osaamistani vielä lisää.
+Repositoryn tehtävien avulla opin teoreettisia tapoja kirjoittaa **tehokasta ja toimivaa koodia**. Kuten kurssin luennolla todettiin: "Miksi keksiä pyörää uudestaan, kun olemassa on jo toimivat ja tehokkaat periaatteet koodin suunnitteluun." Pääsin syventämään Java-osaamistani tutustumalla näihin menetelmiin ja haluaisin vahvistaa suunnittelun osaamistani vielä lisää käytännön työssä.
 
 ## Yleistä:
 Olen huomannut että frameworkien ja kirjastojen tuntemus on tärkeää, sillä ne tehostavat ja automatisoivat työskentelyä. Niiden käyttö vaatii kuitenkin usein enemmän perehtymistä dokumentaatioon tai tutoriaaleihin kuin ohjelmointikielten käyttö. Kielten opiskelussa toiminut luovuus ja arvailu ei frameworkien kanssa enää toiminutkaan yhtä hyvin. Tämän takia olen nykyään tottunut käyttämään dokumentaatioita ja tutoriaaleja osana työskentelyäni.
