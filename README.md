@@ -1,15 +1,27 @@
 # Mitä olen oppinut projekteista?
-Suurin osa projekteista (Budjettisovellus, Koiratarha2 ja Koneoppiminen) on tehty ryhmätyönä kurssilla, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani. Yleensä tästä on seurannut koodin siistiytyminen ja rakenteen parantuminen uusien ominaisuuksien kehittämisen sijaan. Huomasin samalla, että pidän jo olemassa olevan koodin muokkaamisesta parempaan muotoon.
+Suurin osa projekteista (Budjettisovellus, Koiratarha2 ja Koneoppiminen) on tehty ryhmätyönä kurssilla, jonka jälkeen olen jatkanut niiden kehittämistä omalla ajallani. Yleensä olen siistinyt koodia ja parantanut sen rakennetta uusien ominaisuuksien kehittämisen sijaan. Huomasinkin työskennellessä, että pidän jo olemassa olevan koodin muokkaamisesta selvemmäksi ja toimivammaksi.
 
 ## Koneoppimistehtävät: 
-Opin käyttämään Python-kirjastoja datan käsittelyyn ja visualisoimiseen. Näitä kirjastoja ovat esimerkiksi Pandas, NumPy, Seaborn, Matplotlib.pyplot, Scikit-learn ja NLTK. Lisäksi pääsin käyttämään Google Colabia ryhmäkoodaamisessa. Etäkoodasimme yhdessä puheluyhteyden välityksellä ja vuorottelimme kirjoittajan roolissa. Kun yksi kirjoitti niin toiset kommentoivat tai etsivät ratkaisuja pulmiin. Opin myös käyttämään JupyterLabia lokaalisti omassa kehitysympäristössäni.
+Opin käyttämään Python-kirjastoja datan käsittelyyn ja visualisoimiseen. Näitä kirjastoja ovat esimerkiksi:
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib.pyplot
+- Scikit-learn
+- NLTK
+  
+Lisäksi pääsin käyttämään **Google Colabia** ryhmäkoodaamisessa. Etäkoodasimme puheluyhteyden välityksellä ja vuorottelimme kirjoittajan roolissa. Kun yksi kirjoitti niin toiset kommentoivat tai etsivät ratkaisuja pulmiin.
+  
+Itsenäisesti työskennellessäni opin käyttämään **JupyterLabia** lokaalisti omassa kehitysympäristössäni.
 
 ## Koiratarha2.0:
-Projektissa opin luomaan integraatioita ohjelman eri osien välillä, sillä sovelluksen muodostavat erilliset API-serveri, autentikointiserveri, frontend ja tietokanta. Tämän projektin aikana opin käyttämään TypeScriptiä. Olen vienyt projektin Azureen, mikä antoi kokemusta sovelluksen siirtämisestä pilveen.
+Projektissa opin datan siirtoa ohjelman eri osien välillä, sillä sovelluksen muodostavat erilliset **GraphQL-API-serveri**, **REST-autentikointiserveri**, **frontend** ja **NoSQL-tietokanta**. Dataa siirretään esimerkiksi fetch-funktion ja http-kyselyjen avulla, ja tietokantayhteys MongoDB:en muodostetaan Mongoosen avulla.  
+  
+Projektissa käytettiin pääasiassa **TypeScriptiä** ja sainkin siitä hyvän tuntuman käytännön tekemisellä. Pienenä kritiikkinä voisin mainita, että käytimme TypeScriptin automaattista tyypitystä reilusti, joten tyyppejä on näkyvissä koodissa rajoitetusti. Koodin ymmärrettävyyden helpottamiseksi tyypitkin voisivat olla useammin näkyvillä. Haluisinkin kehittyä vielä lisää tyyppien kirjoittamisen kanssa.
+  
+Olen vienyt projektin Azureen, mikä antoi kokemusta **Azuren peruskäytöstä** ja sovelluksen siirtämisestä pilveen. Vienti tapahtui **githubin Actionsien** avustuksella, jolloin ohjelmiston jokaiseen osaan konfiguroitiin tarvittavat ympäristömuuttujat sekä Azureen että githubiin.
   
 Kurssilla keskityin pääasiassa backendin kehittämiseen. Kurssin jo loputtua refaktoroin lisäksi frontendin, ja muutokset ovat nähtävillä GitHubin historiassa.
-  
-Projektiin jäi vielä parannettavia asioita. TypeScriptin automaattista tyypitystä on  hyödynetty projektissa reilusti, joten tyyppejä on näkyvissä koodissa rajoitetusti. Koodin ymmärrettävyyden helpottamiseksi tyypitkin voisivat olla useammin näkyvillä. Lisäksi käyttäjän autentikointi oli erittäin yksinkertainen ja kaipaisi jatkokehitystä, jos sitä haluaisi käyttää harjoitussovelluksen ulkopuolella.
 
 ## Kolikkosieppari:
 Tässä projektissa opin käyttämään Pythonin pelikirjastoa ja luomaan yksinkertaista peligrafiikkaa. Lisäksi opin itsenäisen työskentelyn aikataulutusta ja projektin hallintaa, sillä kurssin toteutus oli täysin itsenäinen. Sain pelin valmiiksi aikatauluni mukaan erinomaisin tuloksin.
